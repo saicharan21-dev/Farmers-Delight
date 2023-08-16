@@ -1,0 +1,15 @@
+.farm-select{
+    margin-right:10px;
+    cursor: pointer;
+
+}
+.farm-select:hover {
+    color: #388e3c;
+    font-weight: bold;
+}
+.custom-menu:hover{
+    color: #388e3c;
+}
+.paragraph{
+    font-size: 1em!important;
+}
